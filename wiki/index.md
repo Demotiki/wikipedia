@@ -2,7 +2,7 @@
 type: index
 title: Карта знаний Learning OS
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-09-16
 status: draft
 tags: [map-of-content]
 sources: []
@@ -25,6 +25,16 @@ _Добавляйте атомарные заметки из `wiki/concepts/`._
 ## Методы и инструменты
 
 _Добавляйте заметки из `wiki/methods/`._
+
+### Системы контроля версий
+- [[git-basics]] — базовые команды и концепции Git
+- [[version-control-workflow]] — типичный workflow с Git (создать)
+- Источники: [[2026-s1-lab-01-git]]
+
+### Экономика
+- [[market-economy-basics]] — основы рыночной экономики (создать)
+- [[economic-systems]] — типы экономических систем (создать)
+- Источники: [[Economics_1]]
 
 ## Модели, теории и системы
 
